@@ -21,5 +21,5 @@ In this implementation, a journal and replication step happen concurrently, and 
            journal
 ```
  
-This is also an example of in-memory storage based on "event sourcing" -
-> see Martin Fowler: http://martinfowler.com/eaaDev/EventSourcing.html
+This is also an example of in-memory storage based on "event sourcing" - see Martin Fowler: 
+> http://martinfowler.com/eaaDev/EventSourcing.html
